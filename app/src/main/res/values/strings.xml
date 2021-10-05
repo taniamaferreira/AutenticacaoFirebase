@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutenticaçãoFirebase</string>
+    <string name="default_web_client_id">client_id</string>
+    <string name="deslogar">"deslogar "</string>
+
+
+</resources>
